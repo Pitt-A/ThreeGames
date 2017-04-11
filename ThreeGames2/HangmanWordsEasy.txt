@@ -1,0 +1,10 @@
+jet
+dog
+cat
+leaf
+file
+club
+orc
+text
+menu
+key
